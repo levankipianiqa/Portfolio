@@ -1,0 +1,112 @@
+
+{
+  "store": {
+    "name": "alexanderwang",
+    "womennewarrivals": [
+      {
+        "name": "asymmetric ruched strapless mini dress",
+        "price": "$850.00",
+        "description": "features a strapless neckline with asymmetric construction and ruched detailing. designed for a fitted silhouette with a mini length.",
+        "color": "begonia pink",
+        "bodycomposition": "93% cupro / 7% elastane",
+        "lining": "93% cupro / 7% elastane",
+        "country": "made in china",
+        "number": "1CC3266000667A"
+      },
+      {
+        "name": "layered Mini Tank Dress with Tie-Front Cardigan",
+        "price": "$595.00",
+        "description": "features a sleeveless tank dress with cardigan layer draped over the shoulders and tied at front. designed for a fitted silhouette with a mini length.",
+        "color": "heather grey/white",
+        "cardiganbody": "100% wool",
+        "cardigantrim": "90% wool / 8% polyamide / 2% elastane",
+        "tankbody": "100% cotton / 7% elastane",
+        "tankrib": "100% cotton",
+        "country": "made in portugal",
+        "number": "1CC3266045056"
+      },
+      {
+        "name": "strapless high-low bodycon dress",
+        "price": "$650.00",
+        "description": "features a strapless neckline with a high-low hem. designed for a fitted silhouette.",
+        "color": "black",
+        "bodycomposition": "100% wool",
+        "country": "made in china",
+        "number": "1CC3266999001"
+      },
+      {
+        "name": "barbed wire dress",
+        "price": "$1,595.00",
+        "description": "features a sleeveless silhouette with structured construction and barbed detailing. designed for a fitted silhouette with a midi length.",
+        "color": "black",
+        "bodyface": "100% lambskin",
+        "bodyblack": "100% polyester",
+        "country": "made in india",
+        "number": "1WC3266083001"
+      },
+      {
+        "name": "layered tank with tie-front sweater detail",
+        "price": "$395.00",
+        "description": "features a sleeveless tank with pre-styled cardigan layer draped over the shoulders and tied at front. designed for a fitted silhouette.",
+        "color": "black",
+        "cardiganbody": "100% wool",
+        "cardigantrim": "90% wool / 8% polyamide / 2% elastane",
+        "tankbody": "100% cotton",
+        "tankrib": "100% cotton",
+        "country": "made in portuigal",
+        "number": "1CC3261355001"
+      },
+      {
+        "name": "pleated neckline hoodie",
+        "price": "$595.00",
+        "description": "features a hooded neckline with pleated detailing. long sleeves with ribbed cuffs and hem. designed for a cropped, regular fit.",
+        "color": "black",
+        "bodycomposition": "85% acate / 10% silk / 5% elastane",
+        "lining": "100% polyester",
+        "country": "made in portuigal",
+        "number": "1WC3261299001"
+      },
+      {
+        "name": "zipper detail cowl neck tank",
+        "price": "$450.00",
+        "description": "features a cowl neckline and sleeveless silhouette with zipper detailing. designed for a fitted silhouette.",
+        "color": "black",
+        "bodycomposition": "97% viscose / 3% elastane",
+        "country": "made in china",
+        "number": "1CC3261388001"
+      },
+      {
+        "name": "button front-tank cardigan",
+        "price": "$350.00",
+        "description": "features a sleeveless silhouette with a scoop neckline. front placket detail continues around the neckline. logo detail at bottom left. designed for a cropped, fitted silhouette.",
+        "color": "heather grey",
+        "bodycomposition": "100% wool",
+        "ribtrim": "82% wool / 18% polyamide",
+        "fishandwildlie": "trochas shell",
+        "country": "made in china",
+        "number": "1KC3263074030"
+      },
+      {
+        "name": "gathered stripped shirt with layered tank",
+        "price": "$425.00",
+        "description": "features a button down shirt with gathered detailing layered over a fitted tank. long sleeves with button cuffs. designed for a relaxed layered silhouette.",
+        "color": "light blue stripe",
+        "body1": "100% cotton",
+        "body2": "90% polyamide / 10% elastane",
+        "country": "made in china",
+        "number": "1KC3261056458B"
+      },
+      {
+        "name": "draped neck zip-up hoodie",
+        "price": "$425.00",
+        "description": "features a hooded neckline with pleated detailing. long sleeves with ribbed cuffs and hem. designed for a cropped, regular fit.",
+        "color": "star white",
+        "bodycomposition": "85% acetate / 10% silk / 5% elastane",
+        "lining": "100% polyester",
+        "country": "made in portugal",
+        "number": "1WC3261299161"
+      }
+    ]
+  }
+}
+```

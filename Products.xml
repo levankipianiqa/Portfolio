@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<store name="alexanderwang">
+  <womennewarrivals>
+    <name>asymmetric ruched strapless mini dress</name>
+    <price>$850.00</price>
+    <description>features a strapless neckline with asymmetric construction and ruched detailing. designed for a fitted silhouette with a mini length.</description>
+    <color>begonia pink</color>
+    <bodycomposition>93% cupro / 7% elastane</bodycomposition>
+    <lining>93% cupro / 7% elastane</lining>
+    <country>made in china</country>
+    <number>1CC3266000667A</number>
+  </womennewarrivals>
+  <womennewarrivals>
+    <name>layered Mini Tank Dress with Tie-Front Cardigan</name>
+    <price>$595.00</price>
+    <description>features a sleeveless tank dress with cardigan layer draped over the shoulders and tied at front. designed for a fitted silhouette with a mini length.</description>
+    <color>heather grey/white</color>
+    <cardiganbody>100% wool</cardiganbody>
+    <cardigantrim>90% wool / 8% polyamide / 2% elastane</cardigantrim>
+    <tankbody>100% cotton / 7% elastane</tankbody>
+    <tankrib>100% cotton</tankrib>
+    <country>made in portugal</country>
+    <number>1CC3266045056</number>
+  </womennewarrivals>
+  <womennewarrivals>
+    <name>strapless high-low bodycon dress</name>
+    <price>$650.00</price>
+    <description>features a strapless neckline with a high-low hem. designed for a fitted silhouette.</description>
+    <color>black</color>
+    <bodycomposition>100% wool</bodycomposition>
+    <country>made in china</country>
+    <number>1CC3266999001</number>
+  </womennewarrivals>
+  <womennewarrivals>
+    <name>barbed wire dress</name>
+    <price>$1,595.00</price>
+    <description>features a sleeveless silhouette with structured construction and barbed detailing. designed for a fitted silhouette with a midi length.</description>
+    <color>black</color>
+    <bodyface>100% lambskin</bodyface>
+    <bodyblack>100% polyester</bodyblack>
+    <country>made in india</country>
+    <number>1WC3266083001</number>
+  </womennewarrivals>
+  <womennewarrivals>
+    <name>layered tank with tie-front sweater detail</name>
+    <price>$395.00</price>
+    <description>features a sleeveless tank with pre-styled cardigan layer draped over the shoulders and tied at front. designed for a fitted silhouette.</description>
+    <color>black</color>
+    <cardiganbody>100% wool</cardiganbody>
+    <cardigantrim>90% wool / 8% polyamide / 2% elastane</cardigantrim>
+    <tankbody>100% cotton</tankbody>
+    <tankrib>100% cotton</tankrib>
+    <country>made in portuigal</country>
+    <number>1CC3261355001</number>
+  </womennewarrivals>
+  <womennewarrivals>
+    <name>pleated neckline hoodie</name>
+    <price>$595.00</price>
+    <description>features a hooded neckline with pleated detailing. long sleeves with ribbed cuffs and hem. designed for a cropped, regular fit.</description>
+    <color>black</color>
+    <bodycomposition>85% acate / 10% silk / 5% elastane</bodycomposition>
+    <lining>100% polyester</lining>
+    <country>made in portuigal</country>
+    <number>1WC3261299001</number>
+  </womennewarrivals>
+  <womennewarrivals>
+    <name>zipper detail cowl neck tank</name>
+    <price>$450.00</price>
+    <description>features a cowl neckline and sleeveless silhouette with zipper detailing. designed for a fitted silhouette.</description>
+    <color>black</color>
+    <bodycomposition>97% viscose / 3% elastane</bodycomposition>
+    <country>made in china</country>
+    <number>1CC3261388001</number>
+  </womennewarrivals>
+  <womennewarrivals>
+    <name>button front-tank cardigan</name>
+    <price>$350.00</price>
+    <description>features a sleeveless silhouette with a scoop neckline. front placket detail continues around the neckline. logo detail at bottom left. designed for a cropped, fitted silhouette.</description>
+    <color>heather grey</color>
+    <bodycomposition>100% wool</bodycomposition>
+    <ribtrim>82% wool / 18% polyamide</ribtrim>
+    <fishandwildlie>trochas shell</fishandwildlie>;
+    <country>made in china</country>
+    <number>1KC3263074030</number>
+  </womennewarrivals>
+  <womennewarrivals>
+    <name>gathered stripped shirt with layered tank</name>
+    <price>$425.00</price>
+    <description>features a button down shirt with gathered detailing layered over a fitted tank. long sleeves with button cuffs. designed for a relaxed layered silhouette.</description>
+    <color>light blue stripe</color>
+    <body1>100% cotton</body1>
+    <body2>90% polyamide / 10% elastane</body2>
+    <country>made in china</country>
+    <number>1KC3261056458B</number>
+  </womennewarrivals>
+  <womennewarrivals>
+    <name>draped neck zip-up hoodie</name>
+    <price>$425.00</price>
+    <description>features a hooded neckline with pleated detailing. long sleeves with ribbed cuffs and hem. designed for a cropped, regular fit.</description>
+    <color>star white</color>
+    <bodycomposition>85% acetate / 10% silk / 5% elastane</bodycomposition>
+    <lining>100% polyester</lining>
+    <country>made in portugal</country>
+    <number>1WC3261299161</number>
+  </womennewarrivals>
+</store>
